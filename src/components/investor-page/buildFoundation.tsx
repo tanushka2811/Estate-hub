@@ -46,17 +46,17 @@ export default function BuildFoundation() {
               </p>
               <div className="flex -space-x-2">
                 <img
-                  src="/images/testimonial/meet-visionary-1.png"
+                  src="/images/residential_hero.png"
                   alt="Investor 1"
                   className="w-8 h-8 rounded-full border-2 border-white"
                 />
                 <img
-                  src="/images/testimonial/meet-visionary-2.png"
+                  src="/images/office-hero.png"
                   alt="Investor 2"
                   className="w-8 h-8 rounded-full border-2 border-white"
                 />
                 <img
-                  src="/images/testimonial/meet-visionary3.png"
+                  src="/images/office-hero.png"
                   alt="Investor 3"
                   className="w-8 h-8 rounded-full border-2 border-white"
                 />

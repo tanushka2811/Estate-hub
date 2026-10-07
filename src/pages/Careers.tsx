@@ -3,7 +3,6 @@ import CareerHero from "../components/career-page/careerHero"
 import CareerOpportunity from "../components/career-page/careerOpportunity"
 import { CareerForm } from "../components/forms/careerForm"
 import Perks from "../components/career-page/perks"
-import MeetVisionary from "../components/about-page/meetVisionary"
 
 export default function Career() {
   return (
@@ -13,7 +12,7 @@ export default function Career() {
       <Advantage />
       <Perks />
       <CareerForm />
-    <MeetVisionary/>
+   
     </>
 
 

@@ -8,7 +8,7 @@ export default function Advantage() {
                 {/* Left Content */}
                 <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-8 h-full lg:-translate-x-12">
                     <h2 className="text-3xl md:text-4xl font-serif text-[#1E3557] mb-4">
-                        Life at Aaru
+                        Life at Estate-Hubs: Where Growth Meets Opportunity
                     </h2>
                     <p className="text-[#4A5568] text-sm md:text-base mb-8 leading-relaxed">
                         At Estate-Hubs, we believe in building not just properties, but
