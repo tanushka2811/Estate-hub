@@ -14,12 +14,12 @@ export default function Excellence() {
         },
         {
             id: 2,
-            title: "Aaru Heights",
+            title: "Estate-hub Heights",
             description:
                 "Premium residential towers offering modern amenities and green living in the heart of the city.",
             location: "Dwarka, Delhi",
             type: "Residential",
-            image: "/images/aaru-heights.jpg",
+            image: "/images/Estate-hub-heights.jpg",
         },
         {
             id: 3,
@@ -66,7 +66,7 @@ export default function Excellence() {
                     Excellence in every detail
                 </h2>
                 <p className="text-[#4A5568] text-sm md:text-base mb-12 max-w-3xl">
-                    Aaru Heights is more than just a building; it’s a testament to our commitment
+                    Estate-hub Heights is more than just a building; it’s a testament to our commitment
                     to quality and architectural innovation.
                 </p>
 

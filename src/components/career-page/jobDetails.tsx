@@ -120,7 +120,7 @@ export default function JobDetails({
               <h2 className="!text-white text-xl leading-tight font-Libre Baskerville mt-3">
                 Ready to join
                 <br />
-                AaruDevelopers?
+                Estate-hubDevelopers?
               </h2>
 
               <button className="mt-5 w-full bg-white rounded-lg py-3 text-[#10274F] font-semibold leading-5">

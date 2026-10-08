@@ -16,7 +16,7 @@ export default function App() {
     const projects: Project[] = [
         {
             id: 1,
-            title: "Aaru Heights",
+            title: "Estate-hub Heights",
             location: "Gurugram",
             imageUrl: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=80"
         },

@@ -14,7 +14,7 @@ const Layout: FC<LayoutProps> = ({ children }) => {
   return (
     <div className="min-h-screen bg-white">
       <Navbar />
-      <main className="pt-[108px] md:pt-[80px]">
+      <main className="pt-[70px] md:pt-[80px]">
         {children}
       </main>
       <Testimonials />

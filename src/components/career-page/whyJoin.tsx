@@ -29,7 +29,7 @@ export default function WhyJoin() {
                     Why Join Estate-Hubs
                 </h2>
                 <p className="text-[#4A5568] text-sm md:text-base mb-12 max-w-3xl mx-auto">
-                    We don’t just build properties — we build careers. Here’s what makes Aaru a
+                    We don’t just build properties — we build careers. Here’s what makes Estate-hub a
                     place where professionals thrive.
                 </p>
 

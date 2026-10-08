@@ -6,7 +6,7 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Aaru Heights",
+      title: "Estate-hub Heights",
       location: "Dwarka, Delhi",
       image: "/images/office-hero.png",
       type: "Residential",
@@ -16,9 +16,9 @@ export default function Projects() {
     },
     {
       id: 2,
-      title: "Aaru Estate",
+      title: "Estate-hub Estate",
       location: "Gurugram, HR",
-      image: "/images/aaru-estate.jpg",
+      image: "/images/Estate-hub-estate.jpg",
       type: "Villas",
       info: "4 BHK | 3200 Sq.ft",
       description:
@@ -26,9 +26,9 @@ export default function Projects() {
     },
     {
       id: 3,
-      title: "Aaru Metro",
+      title: "Estate-hub Metro",
       location: "Noida, UP",
-      image: "/images/aaru-metro.jpg",
+      image: "/images/Estate-hub-metro.jpg",
       type: "Commercial",
       info: "Office | 1200 Sq.ft",
       description:
@@ -36,9 +36,9 @@ export default function Projects() {
     },
     {
       id: 4,
-      title: "Aaru Residency",
+      title: "Estate-hub Residency",
       location: "Rohini, Delhi",
-      image: "/images/aaru-residency.jpg",
+      image: "/images/Estate-hub-residency.jpg",
       type: "Apartments",
       info: "2 BHK | 1150 Sq.ft",
       description:

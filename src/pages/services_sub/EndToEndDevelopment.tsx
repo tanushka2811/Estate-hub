@@ -268,7 +268,7 @@ const EndToEndDevelopment: React.FC = () => {
 
 
       <Excellence
-        heading="How Aaru Delivers Excellence."
+        heading="How Estate-hub Delivers Excellence."
         description="From modern luxury apartments to smart custom villas, Estate-Hubs designs residential spaces built for the future."
         steps={[
           { num: "01", title: "Site & Legal", desc: "Land acquisition, clear title verification, RERA registration, and layout approvals." },

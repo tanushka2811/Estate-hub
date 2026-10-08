@@ -13,7 +13,7 @@ export default function CareerHero() {
             </div>
             <div className="relative z-10 px-4 sm:px-10 md:px-16 lg:px-[50px] w-full">
                 <h1 className="!text-white text-3xl sm:text-5xl lg:text-7xl font-bold leading-[1.1] mb-5 max-w-4xl animate-fadeIn">
-                    Build Your Career with Aaru <br /> developers.
+                    Build Your Career with Estate-hub
                 </h1>
                 <p className="!text-white text-sm sm:text-base md:text-lg max-w-3xl mb-6 font-light leading-relaxed">
                     Join a team that is redefining real estate through innovation, design, and meaningful work.          </p>

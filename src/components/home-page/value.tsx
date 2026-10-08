@@ -29,7 +29,7 @@ export default function Value() {
         <section className="py-7 bg-white px-4 sm:px-8 md:px-[50px]">
             <div className="w-full">
                 <div className="text-center mb-10">
-                    <h2 className="text-3xl md:text-5xl font-serif text-[#002349] mb-4">Why Thousands Trust Aaru <br className="hidden md:block" /> Developers</h2>
+                    <h2 className="text-3xl md:text-5xl font-serif text-[#002349] mb-4">Why Thousands Trust Estate-hub <br className="hidden md:block" /> Developers</h2>
                     <p className="text-gray-500 text-sm md:text-lg">We don't just build properties we build confidence.</p>
                 </div>
 

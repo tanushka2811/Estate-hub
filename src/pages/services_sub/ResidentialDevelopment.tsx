@@ -143,7 +143,7 @@ const ResidentialDevelopment: React.FC = () => {
           <div className="flex flex-col text-left space-y-6 max-w-xl">
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-serif font-light text-stone-900 leading-[1.15] tracking-tight">
               Residential Dreams Become Reality <br className="hidden sm:inline" />
-              With Aaru.
+              With Estate-hub.
             </h2>
             <p className="text-stone-500 font-sans text-sm sm:text-base leading-relaxed font-light">
               Estate-Hubs made 98% Peoples dream true with owning a smart home a reality.
@@ -556,9 +556,9 @@ const ResidentialDevelopment: React.FC = () => {
           </div>
         </div>
       </section>
-      {/* How Aaru Delivers Excellence Section */}
+      {/* How Estate-hub Delivers Excellence Section */}
       <Excellence
-        heading="How Aaru Delivers Excellence."
+        heading="How Estate-hub Delivers Excellence."
         description="From modern luxury apartments to smart custom villas, Estate-Hubs designs residential spaces built for the future."
         steps={[
           { num: "01", title: "Site & Legal", desc: "Land acquisition, clear title verification, RERA registration, and layout approvals." },

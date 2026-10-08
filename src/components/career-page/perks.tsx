@@ -48,7 +48,7 @@ export default function Perks() {
                     Benefits & Perks
                 </h2>
                 <p className="text-[#4A5568] text-sm md:text-base mb-12 max-w-3xl mx-auto">
-                    We believe great people deserve great rewards. Every benefit at Aaru is
+                    We believe great people deserve great rewards. Every benefit at Estate-hub is
                     designed to help you do your best work and build a life you love.
                 </p>
 

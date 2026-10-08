@@ -1,12 +1,12 @@
 export const caseStudyData = [
   {
     id: 1,
-    title: "Aaru Heights",
+    title: "Estate-hub Heights",
     hero: {
       heading: "Transforming Real Estate Investment into a Seamless Digital Experience",
       subheading:
         "A modern platform designed to simplify property discovery, streamline investment decisions, and build long-term trust through clarity and usability.",
-      image: "/images/aaru-heights-hero.jpg",
+      image: "/images/Estate-hub-heights-hero.jpg",
     },
     about: {
       description:

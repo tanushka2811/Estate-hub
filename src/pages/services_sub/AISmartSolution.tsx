@@ -478,7 +478,7 @@ const AISmartSolution: React.FC = () => {
       </section>
 
 
-      {/* How Aaru Delivers Excellence Section */}
+      {/* How Estate-hub Delivers Excellence Section */}
       <section ref={excellenceScrollRef} className={`relative w-full bg-white ${isMobile ? 'h-auto py-6 sm:py-10 md:py-16' : 'h-[180vh]'}`}>
         <div className={`${isMobile ? 'relative' : 'sticky top-[112px] overflow-hidden'} w-full flex flex-col items-center pt-4 sm:pt-6 md:pt-10 px-3 sm:px-5 md:px-[50px] pb-3 sm:pb-4 md:pb-0`}>
           <div className="w-full flex flex-col">

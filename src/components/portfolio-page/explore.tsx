@@ -13,7 +13,7 @@ const categories = [
 const portfolioData = [
     {
         id: 1,
-        title: "Aaru Heights",
+        title: "Estate-hub Heights",
         description:
             "3 & 4 BHK premium apartments with panoramic views and top-tier amenities.",
         location: "Delhi NCR",

@@ -15,7 +15,7 @@ export const portfolioData = [
     // 1. Residential
     {
         id: 1,
-        title: "Aaru Heights,Residentail Project",
+        title: "Estate-hub Heights,Residentail Project",
         location: "Delhi NCR",
         type: "Residential",
         status: "Completed",
@@ -102,7 +102,7 @@ export const portfolioData = [
             { year: "2027", title: "Delivery", description: "Retail and office spaces ready." },
         ],
         relatedProjects: [
-            { id: 1, title: "Aaru Heights", description: "Residential project.", location: "Delhi NCR", type: "Residential", image: "/images/aaru-heights.jpg" },
+            { id: 1, title: "Estate-hub Heights", description: "Residential project.", location: "Delhi NCR", type: "Residential", image: "/images/Estate-hub-heights.jpg" },
         ],
     },
 

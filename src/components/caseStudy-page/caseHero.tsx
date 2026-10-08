@@ -13,10 +13,10 @@ export default function CaseHero() {
             </div>
             <div className="relative z-10 px-4 sm:px-10 md:px-16 lg:px-[50px] w-full">
                 <h1 className="!text-white text-3xl sm:text-5xl lg:text-6xl font-bold leading-[1.1] mb-5 max-w-4xl animate-fadeIn">
-                   Aaru Heights A Residential <br/> Development Case Study
+                   Estate-hub Heights A Residential <br/> Development Case Study
                 </h1>
                 <p className="!text-white text-sm sm:text-base md:text-lg max-w-3xl mb-6 font-light leading-relaxed">
-                    Aaru Heights is a thoughtfully designed residential project that brings together modern architecture, efficient space planning.
+                    Estate-hub Heights is a thoughtfully designed residential project that brings together modern architecture, efficient space planning.
                 </p>
                 <div className="flex flex-wrap gap-4 mb-[-10px]">
                     <Link to="/portfolio" className="btn-hero-primary px-6 py-3 text-sm md:text-base shadow-2xl min-w-[120px]">
